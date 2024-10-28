@@ -38,3 +38,6 @@ async function fetchCatBreeds() {
 
 fetchCatBreeds().then((response) => console.log(response));
 
+function selectedDropdown() {
+    document.getElementById
+}
